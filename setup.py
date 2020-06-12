@@ -16,6 +16,7 @@ setup(name='atspy',
 
             "cachetools==4.0.0",
             "Cython==0.29.14",
+            "dataclasses==0.7",
             "DateTime==4.3",
             "decorator==4.4.1",
             "easydict==1.9",
