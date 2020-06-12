@@ -27,7 +27,7 @@ tbats==1.0.9
 tblib==1.6.0
 tensorflow==2.2.0
 tflearn==0.3.2
-torch==1.4.0
+torch==1.5.0
 tqdm==4.28.1
 tsfresh==0.14.1
 tweepy==3.6.0
